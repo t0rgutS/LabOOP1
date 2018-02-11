@@ -1,6 +1,8 @@
 #ifndef CLASS
 #define CLASS
 
+// it is patch
+
 class ListDD {
     struct List {
         float val;

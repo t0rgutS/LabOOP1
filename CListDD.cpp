@@ -1,6 +1,8 @@
 #include "CListDD.h"
 #include <iostream>
 
+// it is patch
+
 ListDD::ListDD() {
     head = NULL;
     tail = NULL;
@@ -66,4 +68,3 @@ void ListDD::delList() {
     } else
         printf("Список пуст.\n");
 }
-
