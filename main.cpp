@@ -4,8 +4,6 @@
 #include <stdlib.h>
 #include "CListDD.h"
 
-// it is patch
-
 int main() {
     ListDD list;
     float el;
